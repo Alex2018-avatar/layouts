@@ -1,0 +1,22 @@
+[
+	{
+		"uniqueID":"10001",
+		"name":"Mujeres"
+	},
+	{
+		"uniqueID": "10002",
+		"name": "Hombres"
+	},
+	{
+		"uniqueID": "10003",
+		"name": "Boys"
+	},
+	{
+		"uniqueID": "10004",
+		"name": "Ofertas"
+	},
+	{
+		"uniqueID": "10005",
+		"name": "Navidad"
+	}
+]

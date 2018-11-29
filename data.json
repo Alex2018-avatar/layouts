@@ -1,0 +1,856 @@
+{
+    "recordSetTotal": 50,
+    "resourceId": "http://localhost/search/resources/store/10151/categoryview/@top?depthAndLimit=-1,-1,-1,-1",
+    "recordSetCount": 50,
+    "recordSetComplete": "true",
+    "recordSetStartNumber": 0,
+    "resourceName": "categoryview",
+    "catalogGroupView": [
+        {
+            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10001",
+            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_pants.png",
+            "shortDescription": "The latest styles for the entire family.",
+            "sequence": [
+                "10001_-1_4.00000",
+                "10052_-1_1.00000"
+            ],
+            "parentCatalogGroupID": [
+                "10001_-1",
+                "10052_-1"
+            ],
+            "name": "Apparel",
+            "uniqueID": "10001",
+            "childCatalogGroupID": [
+                "10001_10005",
+                "10001_10004",
+                "10001_10003",
+                "10001_10002",
+                "10052_10005",
+                "10052_10004",
+                "10052_10003",
+                "10052_10002"
+            ],
+            "storeID": "10051",
+            "identifier": "Apparel",
+            "catalogGroupView": [
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10005",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_app_girls.png",
+                    "shortDescription": "Girls",
+                    "parentCatalogGroupID": [
+                        "10001_10001",
+                        "10052_10001"
+                    ],
+                    "name": "Girls",
+                    "uniqueID": "10005",
+                    "childCatalogGroupID": [
+                        "10001_10020",
+                        "10001_10021",
+                        "10001_10022",
+                        "10001_10023",
+                        "10052_10020",
+                        "10052_10021",
+                        "10052_10022",
+                        "10052_10023"
+                    ],
+                    "storeID": "10051",
+                    "identifier": "Girls",
+                    "catalogGroupView": [
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10020",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gsh_shoes.png",
+                            "shortDescription": "Shoes",
+                            "parentCatalogGroupID": [
+                                "10001_10005",
+                                "10052_10005"
+                            ],
+                            "name": "Shoes",
+                            "uniqueID": "10020",
+                            "storeID": "10051",
+                            "identifier": "Girls Shoes",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gsh_shoes.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10021",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gcl_pants.png",
+                            "shortDescription": "Pants",
+                            "parentCatalogGroupID": [
+                                "10001_10005",
+                                "10052_10005"
+                            ],
+                            "name": "Pants",
+                            "uniqueID": "10021",
+                            "storeID": "10051",
+                            "identifier": "Girls Pants",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gcl_pants.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10022",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gcl_skirts.png",
+                            "shortDescription": "Skirts",
+                            "parentCatalogGroupID": [
+                                "10001_10005",
+                                "10052_10005"
+                            ],
+                            "name": "Skirts",
+                            "uniqueID": "10022",
+                            "storeID": "10051",
+                            "identifier": "Girls Dresses Skirts",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gcl_skirts.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10023",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gcl_tops.png",
+                            "shortDescription": "Tops",
+                            "parentCatalogGroupID": [
+                                "10001_10005",
+                                "10052_10005"
+                            ],
+                            "name": "Tops",
+                            "uniqueID": "10023",
+                            "storeID": "10051",
+                            "identifier": "Girls Tops",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_gcl_tops.png"
+                        }
+                    ],
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/girls/category/catr_app_girls.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10004",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_app_boys.png",
+                    "shortDescription": "boys",
+                    "parentCatalogGroupID": [
+                        "10001_10001",
+                        "10052_10001"
+                    ],
+                    "name": "Boys",
+                    "uniqueID": "10004",
+                    "childCatalogGroupID": [
+                        "10001_10024",
+                        "10001_10025",
+                        "10001_10026",
+                        "10052_10024",
+                        "10052_10025",
+                        "10052_10026"
+                    ],
+                    "storeID": "10051",
+                    "identifier": "Boys",
+                    "catalogGroupView": [
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10024",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_bcl_pants.png",
+                            "shortDescription": "Pants",
+                            "parentCatalogGroupID": [
+                                "10001_10004",
+                                "10052_10004"
+                            ],
+                            "name": "Pants",
+                            "uniqueID": "10024",
+                            "storeID": "10051",
+                            "identifier": "Boys Pants",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_bcl_pants.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10025",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_bcl_tops.png",
+                            "shortDescription": "Tops",
+                            "parentCatalogGroupID": [
+                                "10001_10004",
+                                "10052_10004"
+                            ],
+                            "name": "Tops",
+                            "uniqueID": "10025",
+                            "storeID": "10051",
+                            "identifier": "Boys Tops",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_bcl_tops.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10026",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_bsh_shoes.png",
+                            "shortDescription": "Shoes",
+                            "parentCatalogGroupID": [
+                                "10001_10004",
+                                "10052_10004"
+                            ],
+                            "name": "Shoes",
+                            "uniqueID": "10026",
+                            "storeID": "10051",
+                            "identifier": "Boys Shoes",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_bsh_shoes.png"
+                        }
+                    ],
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/boys/category/catr_app_boys.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10003",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_app_women.png",
+                    "shortDescription": "Women",
+                    "parentCatalogGroupID": [
+                        "10001_10001",
+                        "10052_10001"
+                    ],
+                    "name": "Women",
+                    "uniqueID": "10003",
+                    "childCatalogGroupID": [
+                        "10001_10006",
+                        "10001_10007",
+                        "10001_10008",
+                        "10001_10009",
+                        "10001_10010",
+                        "10001_10011",
+                        "10001_10012",
+                        "10001_10013",
+                        "10052_10006",
+                        "10052_10007",
+                        "10052_10008",
+                        "10052_10009",
+                        "10052_10010",
+                        "10052_10011",
+                        "10052_10012",
+                        "10052_10013"
+                    ],
+                    "storeID": "10051",
+                    "identifier": "Women",
+                    "catalogGroupView": [
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10006",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_dresses.png",
+                            "shortDescription": "Dresses",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Dresses",
+                            "uniqueID": "10006",
+                            "storeID": "10051",
+                            "identifier": "Dresses",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_dresses.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10007",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_blouses.png",
+                            "shortDescription": "Blouses",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Blouses",
+                            "uniqueID": "10007",
+                            "storeID": "10051",
+                            "identifier": "Women Shirts Blouses",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_blouses.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10008",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_sweaters.png",
+                            "shortDescription": "Sweaters",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Sweaters",
+                            "uniqueID": "10008",
+                            "storeID": "10051",
+                            "identifier": "Women Sweaters",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_sweaters.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10009",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_skirts.png",
+                            "shortDescription": "Skirts",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Skirts",
+                            "uniqueID": "10009",
+                            "storeID": "10051",
+                            "identifier": "Women Skirts",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_skirts.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10010",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_pants.png",
+                            "shortDescription": "Pants",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Pants",
+                            "uniqueID": "10010",
+                            "storeID": "10051",
+                            "identifier": "Women Pants",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wcl_pants.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10011",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wsh_shoes.png",
+                            "shortDescription": "Shoes",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Shoes",
+                            "uniqueID": "10011",
+                            "storeID": "10051",
+                            "identifier": "Women Shoes",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wsh_shoes.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10012",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wbg_handbags.png",
+                            "shortDescription": "Handbags",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Handbags",
+                            "uniqueID": "10012",
+                            "storeID": "10051",
+                            "identifier": "Women Handbags",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wbg_handbags.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10013",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wac_accessories.png",
+                            "shortDescription": "Accessories",
+                            "parentCatalogGroupID": [
+                                "10001_10003",
+                                "10052_10003"
+                            ],
+                            "name": "Accessories",
+                            "uniqueID": "10013",
+                            "storeID": "10051",
+                            "identifier": "Women Accessories",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_wac_accessories.png"
+                        }
+                    ],
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/women/category/catr_app_women.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10002",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_app_men.png",
+                    "shortDescription": "Men",
+                    "parentCatalogGroupID": [
+                        "10001_10001",
+                        "10052_10001"
+                    ],
+                    "name": "Men",
+                    "uniqueID": "10002",
+                    "childCatalogGroupID": [
+                        "10001_10014",
+                        "10001_10015",
+                        "10001_10016",
+                        "10001_10017",
+                        "10001_10018",
+                        "10001_10019",
+                        "10052_10014",
+                        "10052_10015",
+                        "10052_10016",
+                        "10052_10017",
+                        "10052_10018",
+                        "10052_10019"
+                    ],
+                    "storeID": "10051",
+                    "identifier": "Men",
+                    "catalogGroupView": [
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10014",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_jackets.png",
+                            "shortDescription": "Jackets",
+                            "parentCatalogGroupID": [
+                                "10001_10002",
+                                "10052_10002"
+                            ],
+                            "name": "Jackets",
+                            "uniqueID": "10014",
+                            "storeID": "10051",
+                            "identifier": "Men Jackets",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_jackets.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10015",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_shirts.png",
+                            "shortDescription": "Shirts",
+                            "parentCatalogGroupID": [
+                                "10001_10002",
+                                "10052_10002"
+                            ],
+                            "name": "Shirts",
+                            "uniqueID": "10015",
+                            "storeID": "10051",
+                            "identifier": "Men Shirts",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_shirts.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10016",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_suits.png",
+                            "shortDescription": "Suits",
+                            "parentCatalogGroupID": [
+                                "10001_10002",
+                                "10052_10002"
+                            ],
+                            "name": "Suits",
+                            "uniqueID": "10016",
+                            "storeID": "10051",
+                            "identifier": "Men Suits",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_suits.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10017",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_pants.png",
+                            "shortDescription": "Pants",
+                            "parentCatalogGroupID": [
+                                "10001_10002",
+                                "10052_10002"
+                            ],
+                            "name": "Pants",
+                            "uniqueID": "10017",
+                            "storeID": "10051",
+                            "identifier": "Men Pants",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mcl_pants.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10018",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mac_accessories.png",
+                            "shortDescription": "Accessories",
+                            "parentCatalogGroupID": [
+                                "10001_10002",
+                                "10052_10002"
+                            ],
+                            "name": "Accessories",
+                            "uniqueID": "10018",
+                            "storeID": "10051",
+                            "identifier": "Men Accessories",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_mac_accessories.png"
+                        },
+                        {
+                            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10019",
+                            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_msh_shoes.png",
+                            "shortDescription": "Shoes",
+                            "parentCatalogGroupID": [
+                                "10001_10002",
+                                "10052_10002"
+                            ],
+                            "name": "Shoes",
+                            "uniqueID": "10019",
+                            "storeID": "10051",
+                            "identifier": "Men Shoes",
+                            "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_msh_shoes.png"
+                        }
+                    ],
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/apparel/men/category/catr_app_men.png"
+                }
+            ]
+        },
+        {
+            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10027",
+            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cta_tablets.png",
+            "shortDescription": "Electronics",
+            "sequence": [
+                "10001_-1_5.00000",
+                "10052_-1_2.00000"
+            ],
+            "parentCatalogGroupID": [
+                "10001_-1",
+                "10052_-1"
+            ],
+            "name": "Electronics",
+            "uniqueID": "10027",
+            "childCatalogGroupID": [
+                "10001_10028",
+                "10001_10029",
+                "10001_10030",
+                "10001_10031",
+                "10001_10032",
+                "10052_10028",
+                "10052_10029",
+                "10052_10030",
+                "10052_10031",
+                "10052_10032"
+            ],
+            "storeID": "10051",
+            "identifier": "Electronics",
+            "catalogGroupView": [
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10028",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cac_accessories.png",
+                    "shortDescription": "Accessories",
+                    "parentCatalogGroupID": [
+                        "10001_10027",
+                        "10052_10027"
+                    ],
+                    "name": "Accessories",
+                    "uniqueID": "10028",
+                    "storeID": "10051",
+                    "identifier": "Computers Accessories",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cac_accessories.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10029",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cta_tablets.png",
+                    "shortDescription": "Tablets",
+                    "parentCatalogGroupID": [
+                        "10001_10027",
+                        "10052_10027"
+                    ],
+                    "name": "Tablets",
+                    "uniqueID": "10029",
+                    "storeID": "10051",
+                    "identifier": "Computers Tablets",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cta_tablets.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10030",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cla_laptops.png",
+                    "shortDescription": "Laptops",
+                    "parentCatalogGroupID": [
+                        "10001_10027",
+                        "10052_10027"
+                    ],
+                    "name": "Laptops",
+                    "uniqueID": "10030",
+                    "storeID": "10051",
+                    "identifier": "Computers Laptops",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cla_laptops.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10031",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cde_desktops.png",
+                    "shortDescription": "Desktops",
+                    "parentCatalogGroupID": [
+                        "10001_10027",
+                        "10052_10027"
+                    ],
+                    "name": "Desktops",
+                    "uniqueID": "10031",
+                    "storeID": "10051",
+                    "identifier": "Computers Desktops",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_cde_desktops.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10032",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_ccm_components.png",
+                    "shortDescription": "Components",
+                    "parentCatalogGroupID": [
+                        "10001_10027",
+                        "10052_10027"
+                    ],
+                    "name": "Components",
+                    "uniqueID": "10032",
+                    "storeID": "10051",
+                    "identifier": "Computers Components",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/electronics/category/catr_ccm_components.png"
+                }
+            ]
+        },
+        {
+            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10033",
+            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gda_dairy.png",
+            "shortDescription": "Grocery",
+            "sequence": [
+                "10001_-1_5.00000",
+                "10052_-1_3.00000"
+            ],
+            "parentCatalogGroupID": [
+                "10001_-1",
+                "10052_-1"
+            ],
+            "name": "Grocery",
+            "uniqueID": "10033",
+            "childCatalogGroupID": [
+                "10001_10034",
+                "10001_10035",
+                "10001_10036",
+                "10001_10037",
+                "10052_10034",
+                "10052_10035",
+                "10052_10036",
+                "10052_10037"
+            ],
+            "storeID": "10051",
+            "identifier": "Grocery",
+            "catalogGroupView": [
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10034",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gda_dairy.png",
+                    "shortDescription": "Dairy",
+                    "parentCatalogGroupID": [
+                        "10001_10033",
+                        "10052_10033"
+                    ],
+                    "name": "Dairy",
+                    "uniqueID": "10034",
+                    "storeID": "10051",
+                    "identifier": "Dairy",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gda_dairy.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10035",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gfr_fruit.png",
+                    "shortDescription": "Fruit",
+                    "parentCatalogGroupID": [
+                        "10001_10033",
+                        "10052_10033"
+                    ],
+                    "name": "Fruit",
+                    "uniqueID": "10035",
+                    "storeID": "10051",
+                    "identifier": "Fruit",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gfr_fruit.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10036",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gme_meat.png",
+                    "shortDescription": "Meat",
+                    "parentCatalogGroupID": [
+                        "10001_10033",
+                        "10052_10033"
+                    ],
+                    "name": "Meat",
+                    "uniqueID": "10036",
+                    "storeID": "10051",
+                    "identifier": "Meat",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gme_meat.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10037",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gve_vegetables.png",
+                    "shortDescription": "Vegetables",
+                    "parentCatalogGroupID": [
+                        "10001_10033",
+                        "10052_10033"
+                    ],
+                    "name": "Vegetables",
+                    "uniqueID": "10037",
+                    "storeID": "10051",
+                    "identifier": "Vegetables",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/grocery/category/catr_gve_vegetables.png"
+                }
+            ]
+        },
+        {
+            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10038",
+            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/health/category/catr_hme_medicine.png",
+            "shortDescription": "Health",
+            "sequence": [
+                "10001_-1_5.00000",
+                "10052_-1_4.00000"
+            ],
+            "parentCatalogGroupID": [
+                "10001_-1",
+                "10052_-1"
+            ],
+            "name": "Health",
+            "uniqueID": "10038",
+            "childCatalogGroupID": [
+                "10001_10039",
+                "10001_10040",
+                "10052_10039",
+                "10052_10040"
+            ],
+            "storeID": "10051",
+            "identifier": "Health",
+            "catalogGroupView": [
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10039",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/health/category/catr_hme_medicine.png",
+                    "shortDescription": "Medicine",
+                    "parentCatalogGroupID": [
+                        "10001_10038",
+                        "10052_10038"
+                    ],
+                    "name": "Medicine",
+                    "uniqueID": "10039",
+                    "storeID": "10051",
+                    "identifier": "Medicine",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/health/category/catr_hme_medicine.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10040",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/health/category/catr_hvt_vitamins.png",
+                    "shortDescription": "Vitamins",
+                    "parentCatalogGroupID": [
+                        "10001_10038",
+                        "10052_10038"
+                    ],
+                    "name": "Vitamins",
+                    "uniqueID": "10040",
+                    "storeID": "10051",
+                    "identifier": "Vitamins",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/health/category/catr_hvt_vitamins.png"
+                }
+            ]
+        },
+        {
+            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10041",
+            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hap_appliances.png",
+            "shortDescription": "Home & Furnishing",
+            "sequence": [
+                "10001_-1_5.00000",
+                "10052_-1_5.00000"
+            ],
+            "parentCatalogGroupID": [
+                "10001_-1",
+                "10052_-1"
+            ],
+            "name": "Home & Furnishing",
+            "uniqueID": "10041",
+            "childCatalogGroupID": [
+                "10001_10042",
+                "10001_10043",
+                "10001_10044",
+                "10001_10045",
+                "10001_10046",
+                "10001_10047",
+                "10052_10042",
+                "10052_10043",
+                "10052_10044",
+                "10052_10045",
+                "10052_10046",
+                "10052_10047"
+            ],
+            "storeID": "10051",
+            "identifier": "Home Furnishings",
+            "catalogGroupView": [
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10042",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hba_bath.png",
+                    "shortDescription": "Bath Accessories",
+                    "parentCatalogGroupID": [
+                        "10001_10041",
+                        "10052_10041"
+                    ],
+                    "name": "Bath Accessories",
+                    "uniqueID": "10042",
+                    "storeID": "10051",
+                    "identifier": "Bath Accessories",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hba_bath.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10043",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hfu_furniture.png",
+                    "shortDescription": "Furniture",
+                    "parentCatalogGroupID": [
+                        "10001_10041",
+                        "10052_10041"
+                    ],
+                    "name": "Furniture",
+                    "uniqueID": "10043",
+                    "storeID": "10051",
+                    "identifier": "Furniture",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hfu_furniture.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10044",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hkt_kitchenware.png",
+                    "shortDescription": "Kitchenware",
+                    "parentCatalogGroupID": [
+                        "10001_10041",
+                        "10052_10041"
+                    ],
+                    "name": "Kitchenware",
+                    "uniqueID": "10044",
+                    "storeID": "10051",
+                    "identifier": "Kitchenware",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hkt_kitchenware.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10045",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hlg_lighting.png",
+                    "shortDescription": "Lighting",
+                    "parentCatalogGroupID": [
+                        "10001_10041",
+                        "10052_10041"
+                    ],
+                    "name": "Lighting",
+                    "uniqueID": "10045",
+                    "storeID": "10051",
+                    "identifier": "Lighting",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hlg_lighting.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10046",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hta_tableware.png",
+                    "shortDescription": "Tableware",
+                    "parentCatalogGroupID": [
+                        "10001_10041",
+                        "10052_10041"
+                    ],
+                    "name": "Tableware",
+                    "uniqueID": "10046",
+                    "storeID": "10051",
+                    "identifier": "Tableware",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hta_tableware.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10047",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hap_appliances.png",
+                    "shortDescription": "Appliances",
+                    "parentCatalogGroupID": [
+                        "10001_10041",
+                        "10052_10041"
+                    ],
+                    "name": "Appliances",
+                    "uniqueID": "10047",
+                    "storeID": "10051",
+                    "identifier": "Appliances",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/homefurnishings/category/catr_hap_appliances.png"
+                }
+            ]
+        },
+        {
+            "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10048",
+            "thumbnail": "/wcsstore/AvatarCAS/images/catalog/newslettersmagazines/category/catr_nma_magazines.png",
+            "shortDescription": "Newsletters & Magazines",
+            "sequence": [
+                "10001_-1_10.00000",
+                "10052_-1_6.00000"
+            ],
+            "parentCatalogGroupID": [
+                "10001_-1",
+                "10052_-1"
+            ],
+            "name": "Newsletters & Magazines",
+            "uniqueID": "10048",
+            "childCatalogGroupID": [
+                "10001_10049",
+                "10001_10050",
+                "10052_10049",
+                "10052_10050"
+            ],
+            "storeID": "10051",
+            "identifier": "NewslettersAndMagazines",
+            "catalogGroupView": [
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10049",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/newslettersmagazines/category/catr_nma_magazines.png",
+                    "shortDescription": "Magazines",
+                    "parentCatalogGroupID": [
+                        "10001_10048",
+                        "10052_10048"
+                    ],
+                    "name": "Magazines",
+                    "uniqueID": "10049",
+                    "storeID": "10051",
+                    "identifier": "Magazines",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/newslettersmagazines/category/catr_nma_magazines.png"
+                },
+                {
+                    "resourceId": "http://localhost/search/resources/store/10151/categoryview/byId/10050",
+                    "thumbnail": "/wcsstore/AvatarCAS/images/catalog/newslettersmagazines/category/catr_nne_newsletters.png",
+                    "shortDescription": "Newsletters",
+                    "parentCatalogGroupID": [
+                        "10001_10048",
+                        "10052_10048"
+                    ],
+                    "name": "Newsletters",
+                    "uniqueID": "10050",
+                    "storeID": "10051",
+                    "identifier": "Newsletters",
+                    "fullImage": "/wcsstore/AvatarCAS/images/catalog/newslettersmagazines/category/catr_nne_newsletters.png"
+                }
+            ]
+        }
+    ]
+}
