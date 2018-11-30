@@ -13,6 +13,37 @@ a {
   list-style: none;
   text-decoration: none;
 }
+.container{
+  float: left;
+  margin: 0;
+  vertical-align: top;
+}
+/*Logo*/
+.container-head{
+  width: 100%;
+  position: relative;
+  display: block;
+  height: 78px;
+  max-height: 78px;
+  float: left;
+  background: #fff;
+  border: 1px solid #e4d7d7;
+}
+.container-head .container-fluid {
+  float: left;
+  display: block;
+}
+.container-head .container-fluid .col-lef-logo{
+  width: 30%;
+  float: left;
+  position: relative;
+  display: block;
+}
+.container-head .container-fluid .col-lef-logo a img{
+  width: 80%;
+  margin: 5%;
+}
+
 .bag a p,
 .category-1,
 .category-2,
@@ -21,8 +52,9 @@ a {
     vertical-align: top;
 }
 .container-menu {
-    background: rgba(0,23,79,0.9);
-    color: #fff;
+  background: rgba(0,23,79,0.9);
+  color: #fff;
+  border: 1px solid #e4d7d7;
 }
 .top-menu-1 {
   width: 70%;
@@ -174,4 +206,113 @@ a {
 .footer .container ul li a{
       color: #fff;
     font-weight: bold;
+}
+
+.body-container{
+  border: 1px solid #e4d7d7
+}
+
+.footer{
+  padding-top: 50px;
+  background: #121214;
+  border-top: 4px solid #1F1F1F;
+  font-size: 0.9em;
+  margin-top: 50px;
+  padding: 80px 0 0;
+  position: relative;
+  clear: both;
+  display: block;
+  width: 100%;
+  height: 314px;
+  color: #777;
+}
+.container::before, .footer::before{
+  content: " ";
+  display: table;
+}
+@media (min-width: 1200px){
+  .container {
+      width: 1170px;
+  }
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.row{
+  margin-bottom: 25px;
+}
+.col-left{
+  width: 66.66666667%;
+  float: left;
+}
+.col-left .row .left{
+  width: 25%;
+  float: left;
+}
+.col-left .row .container1{
+  width: 100%;
+  display: block;
+  position: relative;
+  float: left;
+  padding: 0;
+   margin: 0;
+}
+.col-left .row .container1 .left img{
+  vertical-align: middle;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.col-left .row .container1 .rigth{
+  width: 68%;
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.col-left .row .container1 .rigth h4{
+  font-size: 1.4em;
+  font-weight: 200;
+  text-shadow: 1px 1px 1px #000;
+  color: #fff;
+}
+.col-left .row hr.ligth{
+  margin-top: 50px;
+  background-image: -webkit-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.20), rgba(255,255,255,0));
+  background-image: -moz-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.20), rgba(255,255,255,0));
+  background-image: -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.20), rgba(255,255,255,0));
+  background-image: -o-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.20), rgba(255,255,255,0));
+}
+
+.col-rigth{
+  width: 25%;
+  margin-left: 8.33333333%;
+  float: left;
+}
+.col-rigth .short{
+  margin-bottom: 9px;
+  color: #ccc;
+}
+.col-rigth h5.short{
+  color: #CCC;
+  font-size: 1em;
+  font-weight: 600;
+  letter-spacing: normal;
+  line-height: 18px;
+  margin: 0 0 5px 0;
+  text-transform: uppercase;
+}
+.col-rigth span.phone{
+  color: #FFF;
+  font-size: 26px;
+  font-weight: bold;
+  display: block;
+  padding-bottom: 15px;
+  margin-top: -5px;
 }

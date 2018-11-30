@@ -1,14 +1,19 @@
 extends layout
 include menu
 block header
+  include banner-header
   +menu-p(drinks)
-block content
-  h1= title
-  p Welcome to #{title}
 
-block catalog
-  .container
-    .content-fluid
-      h2 hola como esta
-      //-each i in drinks
-        li= i.name
+
+block content
+  .body-container
+    h1= title
+    p Welcome to #{title}
+
+    block catalog
+      .container
+        .content-fluid
+          h2 hola como esta
+
+block footer
+  include footer
